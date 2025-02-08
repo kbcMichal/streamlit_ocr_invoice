@@ -1,0 +1,7 @@
+streamlit
+Pillow
+pytesseract
+pdf2image
+google-generativeai
+easyocr
+numpy 
