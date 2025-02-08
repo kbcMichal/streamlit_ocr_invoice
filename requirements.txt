@@ -2,6 +2,6 @@ streamlit
 Pillow
 pytesseract
 pdf2image
-google-generativeai
+google-genai
 easyocr
 numpy 
